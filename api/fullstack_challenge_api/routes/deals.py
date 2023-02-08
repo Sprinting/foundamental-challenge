@@ -6,6 +6,6 @@ from sqlalchemy.orm import Session
 router = APIRouter()
 
 
-@router.get("/companies")
+@router.get("/deals")
 async def get_companies(db: Session = Depends(get_db)):
-    return models.get_companies(db=db)
+    return models.get_deals(db=db)

@@ -1,0 +1,4 @@
+Collecting dotenv
+  Using cached dotenv-0.0.5.tar.gz (2.4 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'error'

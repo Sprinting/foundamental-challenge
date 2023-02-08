@@ -1,9 +1,7 @@
 # Fullstack Challenge
 
 ### Changes latest commit:
-1. challenge_*.json files -> csv files under fullstack_challenge_api/data/
-2. run.py -> batch upload data to mysql instance, run python run.py
-3. models.py -> utility file containing sqlalchemy models, pydantic schemas
+1. added routes for /deals, /companies
 Welcome to our fullstack challenge! :wave:
 
 ## Setup
